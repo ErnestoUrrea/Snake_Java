@@ -11,3 +11,9 @@ The purpose of this project is to learn Java while creating my own version of th
 - High score display in game
 - Pause menu
 - Difficulty options
+
+## How to play
+Inside Java_Game run:
+```bash
+java -cp Snake.jar src/main/Main
+```
