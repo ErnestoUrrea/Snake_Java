@@ -1,5 +1,5 @@
 # Snake Java
-The purpose of this project is to learn Java while creating my own version of the Snake videogame using the Java programming language.
+The purpose of this project is to practice Java while creating my own version of the Snake videogame using the Java programming language.
 
 ## Implemented
 - Start Menu
